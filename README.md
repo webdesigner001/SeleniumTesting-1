@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/degr8sid-code/SeleniumTesting/actions/workflows/maven.yml/badge.svg)](https://github.com/degr8sid-code/SeleniumTesting/actions/workflows/maven.yml)
 # Building Java Projects with Maven
 This guide walks you through using Maven to build a simple Java project.
 
